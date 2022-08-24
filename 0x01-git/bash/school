@@ -1,3 +1,0 @@
-#!/bin/bash
- echo"school"
-e #!/bin/bash\n echo "school"
